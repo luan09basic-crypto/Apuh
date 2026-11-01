@@ -13,13 +13,13 @@ local Player = Players.LocalPlayer
 
 -- Configuration
 local Settings = {
-    AutoFarm = false,
-    AutoMission = false,
+    AutoFarm = true,
+    AutoMission = true,
     AutoRepeatMission = false,
-    KillAura = false,
-    AutoCollectFruit = false,
-    AutoSpinFruit = false,
-    AutoStats = false
+    KillAura = true,
+    AutoCollectFruit = true,
+    AutoSpinFruit = true,
+    AutoStats = true
 }
 
 -- Create Interface
